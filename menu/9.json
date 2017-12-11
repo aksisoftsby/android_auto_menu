@@ -1,0 +1,175 @@
+
+{
+    "FeedData": [
+        {
+            "ID": "9",
+            "tanggal": "11-12-2017 14:04:57",
+            "title": "Contoh Judul",
+            "content": "",
+            "meta": {
+                "_edit_last": [
+                    "1"
+                ],
+                "_edit_lock": [
+                    "1513001031:1"
+                ],
+                "warna_background_header": [
+                    "#71e2d3"
+                ],
+                "_warna_background_header": [
+                    "field_5a2e86f458955"
+                ],
+                "warna_teks_dari_header": [
+                    "#ffffff"
+                ],
+                "_warna_teks_dari_header": [
+                    "field_5a2e872e58956"
+                ],
+                "background_samping_pilih_agak_gelap": [
+                    "10"
+                ],
+                "_background_samping_pilih_agak_gelap": [
+                    "field_5a2e874858957"
+                ],
+                "background_home_depan": [
+                    "10"
+                ],
+                "_background_home_depan": [
+                    "field_5a2e8fdaee88f"
+                ],
+                "id_menu_samping": [
+                    "2"
+                ],
+                "_id_menu_samping": [
+                    "field_5a2e88da5a07b"
+                ]
+            },
+            "gambar": false,
+            "menu": [
+                {
+                    "ID": 11,
+                    "post_author": "1",
+                    "post_date": "2017-12-11 14:05:49",
+                    "post_date_gmt": "2017-12-11 14:05:49",
+                    "post_content": "",
+                    "post_title": "Google",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "google",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2017-12-11 14:05:49",
+                    "post_modified_gmt": "2017-12-11 14:05:49",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "http:\/\/menu.dony.asia\/?p=11",
+                    "menu_order": 1,
+                    "post_type": "nav_menu_item",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "db_id": 11,
+                    "menu_item_parent": "0",
+                    "object_id": "11",
+                    "object": "custom",
+                    "type": "custom",
+                    "type_label": "Tautan Kustom",
+                    "title": "Google",
+                    "url": "http:\/\/google.com",
+                    "target": "",
+                    "attr_title": "",
+                    "description": "",
+                    "classes": [
+                        ""
+                    ],
+                    "xfn": ""
+                },
+                {
+                    "ID": 12,
+                    "post_author": "1",
+                    "post_date": "2017-12-11 14:05:49",
+                    "post_date_gmt": "2017-12-11 14:05:49",
+                    "post_content": "",
+                    "post_title": "Yahoo",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "yahoo",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2017-12-11 14:05:49",
+                    "post_modified_gmt": "2017-12-11 14:05:49",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "http:\/\/menu.dony.asia\/?p=12",
+                    "menu_order": 2,
+                    "post_type": "nav_menu_item",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "db_id": 12,
+                    "menu_item_parent": "0",
+                    "object_id": "12",
+                    "object": "custom",
+                    "type": "custom",
+                    "type_label": "Tautan Kustom",
+                    "title": "Yahoo",
+                    "url": "http:\/\/yahoo.com",
+                    "target": "",
+                    "attr_title": "",
+                    "description": "",
+                    "classes": [
+                        ""
+                    ],
+                    "xfn": ""
+                },
+                {
+                    "ID": 13,
+                    "post_author": "1",
+                    "post_date": "2017-12-11 14:05:49",
+                    "post_date_gmt": "2017-12-11 14:05:49",
+                    "post_content": "",
+                    "post_title": "Facebook",
+                    "post_excerpt": "",
+                    "post_status": "publish",
+                    "comment_status": "closed",
+                    "ping_status": "closed",
+                    "post_password": "",
+                    "post_name": "facebook",
+                    "to_ping": "",
+                    "pinged": "",
+                    "post_modified": "2017-12-11 14:05:49",
+                    "post_modified_gmt": "2017-12-11 14:05:49",
+                    "post_content_filtered": "",
+                    "post_parent": 0,
+                    "guid": "http:\/\/menu.dony.asia\/?p=13",
+                    "menu_order": 3,
+                    "post_type": "nav_menu_item",
+                    "post_mime_type": "",
+                    "comment_count": "0",
+                    "filter": "raw",
+                    "db_id": 13,
+                    "menu_item_parent": "0",
+                    "object_id": "13",
+                    "object": "custom",
+                    "type": "custom",
+                    "type_label": "Tautan Kustom",
+                    "title": "Facebook",
+                    "url": "http:\/\/facebook.com",
+                    "target": "",
+                    "attr_title": "",
+                    "description": "",
+                    "classes": [
+                        ""
+                    ],
+                    "xfn": ""
+                }
+            ]
+        }
+    ]
+}
